@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Milachkov
-===========================================================================================================================================
+Hi 👋 My name is Alexander Milachkov
+====================================
 
 Qualified Programmer and Web Developer
 --------------------------------------
@@ -8,8 +8,10 @@ I am a 20-year-old Bulgarian student. I graduated high school in the summer of 2
 
 *   🌍  I'm based in Sofia, Bulgaria
 *   ✉️  You can contact me at [atmilachkov@yahoo.com](mailto:atmilachkov@yahoo.com)
+*   🚀  I'm currently working on [FingerOrders](http://github.com/FingerOrders)
 *   🧠  I'm learning TypeScript, React, PHP and GO at the moment
 *   🤝  I'm open to collaborating on anything Web or Mobile related
+*   ⚡  Plan, Speed, Discipline
 
 <!--
 **Sasho1256/Sasho1256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

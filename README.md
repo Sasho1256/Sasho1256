@@ -10,8 +10,8 @@ I am a 20-year-old Bulgarian developer, working for Gravital HR since March 2024
 *   ✉️  You can contact me at [atmilachkov@yahoo.com](mailto:atmilachkov@yahoo.com)
 *   🚀  I'm currently working on [Gravital HR](https://gravital.hr/)
 *   🧠  I'm learning PHP, React and GO at the moment
-<!-- *   🤝  I'm open to collaborating on anything Web or Mobile related -->
 *   ⚡  Plan, Speed, Discipline
+<!-- *   🤝  I'm open to collaborating on anything Web or Mobile related -->
 
 <!--
 **Sasho1256/Sasho1256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
